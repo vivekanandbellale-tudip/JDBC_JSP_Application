@@ -7,7 +7,7 @@
 <title>Welcome Page</title>
 </head>
 <body>
-
+<h1>Jsp Jdbc Applictaion</h1>>
 <% 
 //if("Your Data stored successfully".equals(session.getAttribute("msg")))
 //out.print(session.getAttribute("msg")); %>

@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>Data Stored Successfully</h1>
+
 <% System.out.print(session.getAttribute("msg")); %>
 </body>
 </html>
